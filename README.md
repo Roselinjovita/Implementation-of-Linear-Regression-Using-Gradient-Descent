@@ -8,7 +8,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Startv the program.
+1.Start the program.
 
 2.Import numpy as np.
 
@@ -107,17 +107,32 @@ print("For Population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 
+PROFIT PREDICTION GRAPH:
+
 ![Screenshot 2023-09-30 201758](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/599bbbed-72ea-40db-b699-c1bd632c49b3)
+
+COMPUTE COST VALUE:
 
 ![Screenshot 2023-09-30 201843](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/bcc1f4b2-95e8-4baf-a947-3ea2a465361e)
 
+h(x) VALUE:
+
 ![Screenshot 2023-09-30 201910](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/55560a8c-9098-41f4-8545-e7661b759fd2)
+
+COST FUNCTION USING GRADIENT DESCENT GRAPH:
 
 ![Screenshot 2023-09-30 201939](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/fd976813-0f7a-4691-995c-be22d28b3efb)
 
+
+PROFIT PREDICTION GRAPH:
+
 ![Screenshot 2023-09-30 202012](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/1ecc4463-0fbb-493c-9ec7-213c075c37cb)
 
+PROFIT FOT THE POPULATION 35,000:
+
 ![Screenshot 2023-09-30 202037](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/738136b8-feb0-4f42-9998-dba9c0ce7e06)
+
+PROFIT FOR THE POPULATION 70,000:
 
 ![Screenshot 2023-09-30 202107](https://github.com/Roselinjovita/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119104296/a92dae2b-6959-4732-aee1-692234ca4f87)
 
